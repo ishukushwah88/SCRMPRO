@@ -6,20 +6,23 @@ public class QuoteMethod extends OppMethods{
 	
 	public void clickEditButtn(){
 		
-		QuotePage.clk_editbtn.click();
+		QuotePage.Clickon_Edit_btn.click();
 	}
 	
 	public void clkSavebtn(){
-		QuotePage.clk_Savebtn.click();
+		QuotePage.Clickon_Quote_Save_Btn.click();
 	}
 	
 	public void clkQuotelin(){
-		QuotePage.clk_QuotelineItemtab.click();
+		QuotePage.QuoteLineItems_Displayed.click();
 	}
 
 	
 	public void quoteConvert(){
 		
-		QuotePage.clk_quotecovrt.click();
+		QuotePage.Select_Quote_Convert.click();
+		{
+			
+		}
 	}
 }

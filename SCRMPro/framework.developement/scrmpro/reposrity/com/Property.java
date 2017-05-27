@@ -11,7 +11,7 @@ public interface Property {
 	CommonMethods common = new CommonMethods();
 	String webURL = "http://demo2.scrmpro.com";  //Scripts.selectEnviorment();
 	String chromeDriver = "webdriver.chrome.driver";
-	String chromePath ="C:\\Users\\ishan\\workspace\\New folder\\SCRMPro\\framework.sourcelocation\\chromedriver.exe";	
+	String chromePath ="Y:\\SELENIUMAUTOMATION\\chromedriver.exe";	
 	String TestSheet ="C:/Users/ishan/workspace/New folder/SCRMPro/SourceLocation/SCRMPROTESTDATA.xls";
 	LoginModule login = new LoginModule();
 	LeadModule lm = new LeadModule();

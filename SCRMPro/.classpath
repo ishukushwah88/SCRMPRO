@@ -13,6 +13,7 @@
 	<classpathentry kind="lib" path="F:/IMPORATANT SOFTWARES/Selenium Automation Library/ExcelDrivers/poi-3.14/ooxml-lib/curvesapi-1.03.jar"/>
 	<classpathentry kind="lib" path="F:/IMPORATANT SOFTWARES/Selenium Automation Library/ExcelDrivers/poi-3.14/ooxml-lib/xmlbeans-2.6.0.jar"/>
 	<classpathentry kind="lib" path="C:/Users/ishan/Downloads/activation.jar"/>
-	<classpathentry kind="lib" path="C:/Program Files/Java/jdk1.8.0_131/selenium-server-standalone-2.53.0.jar"/>
+	<classpathentry kind="lib" path="Y:/SELENIUMAUTOMATION/selenium-server-standalone-2.46.0.jar"/>
+	<classpathentry kind="lib" path="Y:/SELENIUMAUTOMATION/log4j-1.2.17.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
